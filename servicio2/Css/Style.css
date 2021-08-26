@@ -1,0 +1,45 @@
+:root{
+    --dark: #161910;
+    --dark-x: #0a0a0a ;
+    --light: #ffffff;
+    --verde: #099824;
+    --azul: #2D91ED;  
+}
+body{
+    font-family: 'Spartan', sans-serif;
+    font-weight: 300;
+    color: var(--dark-x);
+   
+    
+}
+.bg-green{background-color: var(--light) !important; }
+.form-control, .btn {
+min-height: 3.1225rem;
+line-height: initial ;
+}
+
+.imagen2{
+    background-image: url(../Img/imagen2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+
+.imagen3{
+    background-image: url(../Img/imagen3.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.imagen4{
+    background-image: url(../Img/imagen4.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+
+.imagen5{
+    background-image: url(../Img/imagen5.jpg);
+    background-size: cover;
+    background-position: center;
+}

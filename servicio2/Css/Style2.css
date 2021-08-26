@@ -1,0 +1,20 @@
+:root{
+    --dark: #161910;
+    --dark-x: #1e2126;
+    --light: #ffffff;
+    --verde: #099824;
+    --verde-x: #008f39;
+    --azul: #2D91ED;  
+}
+body{
+    font-family: 'Spartan', sans-serif;
+    font-weight: 300;
+    color: var(--verde);
+   
+    
+}
+.bg-green{background-color: var(--ligh) !important; }
+.form-control, .btn {
+min-height: 3.1225rem;
+line-height: initial ;
+}
